@@ -1,0 +1,5 @@
+docker build -t juileekaloti1/dockerwebapp .
+
+docker images
+
+docker run -t ubuntu
